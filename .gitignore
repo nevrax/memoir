@@ -1,0 +1,4 @@
+*.csv
+*.db
+backup/
+.ipynb_checkpoints
